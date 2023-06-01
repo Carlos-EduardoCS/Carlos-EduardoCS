@@ -4,7 +4,7 @@
  <div>
    <a href="https://github.com/Carlos-EduardoCS">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-EduardoCS&theme=react&show_icons=true&hide_border=true&count_private=true/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-EduardoCS&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-EduardoCS&layout=compact&langs_count=6&theme=react"/>
 
 </div>
 <div style="display: inline_block"><br>
