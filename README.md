@@ -1,5 +1,5 @@
 
-## Eaeee eu sou Carlos Eduardo 😁
+## Bem vindo ao perfil de Carlos Eduardo 💙
 
  <div>
    <a href="https://github.com/Carlos-EduardoCS">
